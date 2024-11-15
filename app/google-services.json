@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "725876315301",
+    "project_id": "my-application-teacher-lagba",
+    "firebase_url" : "https://my-application-teacher-lagba-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "storage_bucket": "my-application-teacher-lagba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725876315301:android:1cd9360b3771aaa899a94c",
+        "android_client_info": {
+          "package_name": "com.batcat.teacher_lagba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgH4ckKxnubg-nCJBPsz08783DpXLJ9w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
